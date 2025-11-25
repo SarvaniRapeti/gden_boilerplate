@@ -1,0 +1,36 @@
+{
+  "name": "com.neurosell.gdenboilerplate",
+  "version": "1.0.0",
+  "description": "GitHub Actions + Docker + Express + NGINX Boilerplate for Automated Deploys and SSL Support",
+  "keywords": [
+    "gden",
+    "boilerplate",
+    "github",
+    "actions",
+    "ci",
+    "cd",
+    "express",
+    "nginx",
+    "cerbot",
+    "docker"
+  ],
+  "homepage": "https://github.com/Neurosell/gden_boilerplate#readme",
+  "bugs": {
+    "url": "https://github.com/Neurosell/gden_boilerplate/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neurosell/gden_boilerplate.git"
+  },
+  "license": "ISC",
+  "author": "Neurosell",
+  "type": "commonjs",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
+}
