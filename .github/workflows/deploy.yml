@@ -78,5 +78,5 @@ jobs:
           key: ${{ secrets.SERVER_SSH_KEY }}
           passphrase: ${{ secrets.SERVER_SSH_PASSPHRASE }}
           script: |
-            sudo chmod +x /virton/deploy.sh
-            sudo /virton/deploy.sh
+            sudo chmod +x /app/deploy.sh
+            sudo /app/deploy.sh
